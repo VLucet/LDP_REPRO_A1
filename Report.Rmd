@@ -12,19 +12,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Summary of the paper
 
-The paper I chose is @fahrig_farmlands_2015, and is titled "Farmlands with smaller crop fields have higher within-field biodiversity". In this paper, the authors set out to test the impact of field size onto the biodiversity found within agricultural fields, in a landscape in Southern Ontario. The authors sampled diversity of a range of taxa for a total of 93, 1km x 1km square, sub-landscapes, and modeled the relationship between measures of landscape structure (including field size) and biodiversity. They found that crop field size had the strongest effect on biodiversity.
+The paper I chose is @fahrig_farmlands_2015, and is titled "Farmlands with smaller crop fields have higher within-field biodiversity". In this paper, the authors set out to test the impact of field size onto the biodiversity found within agricultural fields, in a landscape in Southern Ontario. The authors sampled diversity of a range of taxa for a total of 93, 1km x 1km square, sub-landscapes, and modeled the relationship between measures of landscape structure (including field size) and biodiversity. They found that crop field size had the strongest effect on biodiversity, but that in the other hand measures of landscape heterogeneity had little to no effect.
 
 # Journal transparency checklist
 
-The journal in which this paper was published, "Agriculture, Ecosystems and Environment", does not seem to provide a reproducibility and transparency checklist. Their authors guidelines, however, does seem to contains some sparse guidelines for reproducibility (see the guidelines [**here**](https://www.elsevier.com/journals/agriculture-ecosystems-and-environment/0167-8809/guide-for-authors))
+The journal in which this paper was published, "Agriculture, Ecosystems and Environment", does not seem to provide a reproducibility and transparency checklist. Their authors guidelines, however, does seem to contains some sparse guidelines for reproducibility (see the full guidelines [**here**](https://www.elsevier.com/journals/agriculture-ecosystems-and-environment/0167-8809/guide-for-authors)).
 
 # Compliance with assignment checklist
 
 1. YES, all sample sizes are accounted for.
 
-2. YES, mostly. There is some reservations as to the selection of sub-landscapes, for which there is only a list of factors and no specific protocal for sub-landscape selection.
+2. YES, mostly. I have some reservations as to the selection of sub-landscapes, for which there is only a list of factors and no specific protocol for sub-landscape selection.
 
-3. YES and NO. Although tests and models seem to be described in sufficient details, the reported standardized model coefficients are plotted instead of reported in a table, which makes assessment difficult. In addition, not all results from all models are reported.
+3. YES and NO. Although tests and models seem to be described in sufficient details, the reported standardized model coefficients are plotted instead of reported in a table, which makes assessment difficult. In addition, not all results from all models are reported, only summary values.
 
 4. NO, observers were likely aware of the expectations that more heterogeneous landscapes with smaller field size would be more diverse. This would have been very hard to avoid however.
 
@@ -36,7 +36,7 @@ The journal in which this paper was published, "Agriculture, Ecosystems and Envi
 
 8. UNSURE, as no test of significance were performed. No mention of comparable effect sizes from meta-analyses.
 
-9. A negative relationship between field size and biodiversity is suggested, and a null relationship between landscape heterogeneity and biodiversity is also suggested. There is huge uncertainty around the  effects measured.
+9. A negative relationship between field size and biodiversity is suggested, and a null relationship between landscape heterogeneity and biodiversity is also suggested. There is huge uncertainty around the  effects measured, as most of the errors bars overlap with 0.
 
 10. UNEXPECTED, as theory would predict that more heterogeneous habitats will harbor more species (the paper did not detect an effect of heterogeneity). EXPECTED with regard to field size.
 
