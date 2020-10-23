@@ -16,7 +16,7 @@ The paper I chose is @fahrig_farmlands_2015, and is titled "Farmlands with small
 
 # Journal transparency checklist
 
-The journal in which this paper was published, "Agriculture, Ecosystems and Environment", does not seem to provide a reproducibility and transparency checklist. Their authors guidelines, however, does seem to contains some sparse guidelines for reproducibility (see the guidelines [**here**](https://www.elsevier.com/journals/agriculture-ecosystems-and-environment/0167-8809/guide-for-authors)) 
+The journal in which this paper was published, "Agriculture, Ecosystems and Environment", does not seem to provide a reproducibility and transparency checklist. Their authors guidelines, however, does seem to contains some sparse guidelines for reproducibility (see the guidelines [**here**](https://www.elsevier.com/journals/agriculture-ecosystems-and-environment/0167-8809/guide-for-authors))
 
 # Compliance with assignment checklist
 
